@@ -6,3 +6,8 @@ header {
     color: beige;
     background-color: black;
 }
+
+footer {
+    background-color: blueviolet;
+    width: 20px;
+}

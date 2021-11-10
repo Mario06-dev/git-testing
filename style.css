@@ -11,3 +11,9 @@ footer {
     background-color: blueviolet;
     width: 20px;
 }
+
+div {
+    width: auto;
+    background-color: brown;
+    color: cadetblue;
+}
